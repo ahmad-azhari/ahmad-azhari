@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Ahmad El Azhari
 
-💻 Web Development Technician from Madrid, Spain 🇪🇸 (originally from Morocco 🇲🇦).  
+💻 Web Development Technician from Madrid, Spain.  
 🎧 Passionate about technology and AI, always learning, always building.
-
----
 
 ## 🚀 About Me
 - 🌍 I specialize in modern web technologies and full-stack development.
