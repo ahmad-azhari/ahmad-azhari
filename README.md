@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmad El Azhari
 
-<!--
-**ahmad-azhari/ahmad-azhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Development Technician from Madrid, Spain 🇪🇸 (originally from Morocco 🇲🇦).  
+🎧 Passionate about technology and AI, always learning, always building.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌍 I specialize in modern web technologies and full-stack development.
+- 🤖 Experienced with AI tools: RAG, LangChain, Gradio, Hugging Face, OpenAI APIs, embeddings, and scraping.
+- 🧠 Always exploring the intersection between creativity and technology.
+
+## 🧰 Technologies & Tools
+
+**Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · React · Vue · TailwindCSS  
+**Backend:** Node.js · Express · MongoDB · MySQL · APIs  
+**AI & Tools:** Python · LangChain · RAG · Gradio · Hugging Face · OpenAI · Scraping · Deep Learning  
+**Other:** Git · GitHub · VS Code · Linux · Docker · RESTful APIs
+
+
+## 📫 Connect With Me
+
+🌍 [LinkedIn](https://www.linkedin.com/in/ahmad-el-azhari-a98b54280)  
+
+⭐️ *“Build things. Break limits. Keep learning.”*
