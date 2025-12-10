@@ -52,5 +52,3 @@
 ## 📫 Connect With Me
 
 🌍 [LinkedIn](https://www.linkedin.com/in/ahmad-el-azhari-a98b54280)  
-
-⭐️ *“Build things. Break limits. Keep learning.”*
