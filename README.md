@@ -1,54 +1,269 @@
-# 👋 Hi, I'm Ahmad El Azhari
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🧠  AHMAD EL AZHARI — GITHUB PROFILE README                                -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-💻 Web Development Technician from Madrid, Spain.  
-🎧 Passionate about technology and AI, always learning, always building.
+<div align="center">
 
-## 🚀 About Me
-- 🌍 I specialize in modern web technologies and full-stack development.
-- 🤖 Experienced with AI tools: RAG, LangChain, Gradio, Hugging Face, OpenAI APIs, embeddings, and scraping.
-- 🧠 Always exploring the intersection between creativity and technology.
+<!-- ═══════════════════════ HERO WAVE HEADER ═══════════════════════ -->
 
-## 🛠️ Technologies & Tools
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:38B2AC&height=220&section=header&text=Ahmad%20El%20Azhari&fontSize=42&fontColor=38B2AC&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20Technician%20%E2%80%A2%20AI%20Specialist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descColor=8B949E&descAlignY=55" width="100%" />
 
-### Frontend
-| Technology | Description |
-|------------|-------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Markup language for web pages |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Styling and layout |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Programming language for web |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | Typed JavaScript superset |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | UI library |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | Utility-first CSS framework |
+<br/>
 
-### Backend
-| Technology | Description |
-|------------|-------------|
-| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | JavaScript runtime |
-| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | Relational database |
-| ![API](https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=api&logoColor=white) | Application Programming Interfaces |
+<!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
-### AI & Tools
-| Technology | Description |
-|------------|-------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Programming language for AI/ML |
-| ![LangChain](https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge&logo=chain&logoColor=white) | Framework for LLM applications |
-| ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white) | Retrieval-Augmented Generation |
-| ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white) | Web interfaces for ML models |
-| ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | AI community and models |
-| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | AI research and deployment |
-| ![Scraping](https://img.shields.io/badge/Web%20Scraping-228B22?style=for-the-badge&logo=webscraping&logoColor=white) | Data extraction from web |
-| ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6B6B?style=for-the-badge&logo=deeplearning&logoColor=white) | Neural networks and ML |
+<a href="https://github.com/ahmad-azhari">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&repeat=true&width=620&height=35&lines=Building+AI+Agents+with+LangGraph+%26+MCP;Full-Stack+Solutions+from+Madrid%2C+Spain;Bridging+LLMs+and+Production+Systems" alt="Typing SVG" />
+</a>
 
-### Other Tools
-| Technology | Description |
-|------------|-------------|
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Version control system |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Code hosting platform |
-| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Code editor |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Operating system |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Containerization platform |
-| ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6B6B?style=for-the-badge&logo=rest&logoColor=white) | API architectural style |
+<br/><br/>
 
-## 📫 Connect With Me
+<!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
 
-🌍 [LinkedIn](https://www.linkedin.com/in/ahmad-el-azhari-a98b54280)  
+<a href="https://www.linkedin.com/in/ahmad-e-a98b54280/"><img src="https://img.shields.io/badge/LinkedIn-Ahmad_El_Azhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/ahmad-azhari"><img src="https://img.shields.io/badge/GitHub-ahmad--azhari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Madrid,_Spain-38B2AC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=ahmad-azhari&style=for-the-badge&color=38B2AC&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+<div align="center">
+
+<h2>🚀 About Me</h2>
+
+**Web Dev Technician · AI Specialist · Full-Stack Developer** based in **Madrid, Spain** 🇪🇸
+
+
+*"Automate everything. Ship relentlessly."*
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   🧠 AI & AGENTIC EXPERTISE                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38B2AC?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/🧠_AI_&_AGENTIC_EXPERTISE-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38B2AC?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>🤖 LLMs & Foundation Models</h3>
+
+<img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_3.5-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta_Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-38B2AC?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+<h3>⚡ Agentic Frameworks & Tools</h3>
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP_Protocol-38B2AC?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
+
+<br/><br/>
+
+<h3>🗄️ RAG & Vector Intelligence</h3>
+
+<img src="https://img.shields.io/badge/RAG_Systems-38B2AC?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_Databases-7C3AED?style=for-the-badge&logo=weaviate&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" />
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                🌐 FULL-STACK FOUNDATION                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0EA5E9?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/🌐_FULL--STACK_FOUNDATION-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0EA5E9?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>🎨 Frontend</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,tailwind,html,css&perline=7&theme=dark" alt="Frontend Skills"/>
+</a>
+
+<br/><br/>
+
+<h3>⚙️ Backend & Data</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4&theme=dark" alt="Backend Skills"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-38B2AC?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Scraping-0EA5E9?style=for-the-badge&logo=scrapy&logoColor=white" />
+
+<br/><br/>
+
+<h3>🛠️ DevOps & QA</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,vscode&perline=4&theme=dark" alt="DevOps Tools"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-161B22?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</div>
+
+<br/>
+<br/>
+<br/>
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   📈 GITHUB ANALYTICS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-F97316?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/📈_GITHUB_ANALYTICS-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-F97316?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/ahmad-azhari">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmad-azhari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=8B949E&ring_color=38B2AC&count_private=true&include_all_commits=true" alt="Ahmad's GitHub Stats" height="180"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ahmad-azhari">
+    <img src="https://streak-stats.demolab.com?user=ahmad-azhari&theme=tokyonight&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=F97316&currStreakLabel=38B2AC&sideLabels=38B2AC&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" width="55%"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-azhari&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38B2AC&line=38B2AC&point=F97316&area=true&area_color=38B2AC" alt="Contribution Graph" width="90%"/>
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   🏗️ WHAT I'M BUILDING                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38B2AC?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/🏗️_WHAT_I'M_BUILDING-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38B2AC?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
+
+🤖 **AI Agents** with LangGraph state machines & MCP tool orchestration
+
+🔗 **RAG Pipelines** powered by ChromaDB for context-aware AI applications
+
+🌐 **Full-Stack Platforms** with Angular, React, Node.js & MongoDB
+
+
+<br/>
+
+<a href="https://github.com/ahmad-azhari?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   🐍 CONTRIBUTION SNAKE                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-azhari/ahmad-azhari/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-azhari/ahmad-azhari/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ahmad-azhari/ahmad-azhari/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   🤝 LET'S CONNECT                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0EA5E9?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/🤝_LET'S_CONNECT-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0EA5E9?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"The best way to predict the future is to build it."* — Alan Kay
+
+<br/>
+
+🤖 Always open to collaborating on **AI Agent projects**, open-source contributions, and innovative web solutions.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ahmad-e-a98b54280/"><img src="https://img.shields.io/badge/Let's_Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/ahmad-azhari?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repos-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔚 END — Built with 🧠 & ☕ by Ahmad El Azhari                             -->
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
