@@ -217,19 +217,6 @@
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🐍 CONTRIBUTION SNAKE                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-azhari/ahmad-azhari/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-azhari/ahmad-azhari/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ahmad-azhari/ahmad-azhari/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                   🤝 LET'S CONNECT                             ║ -->
