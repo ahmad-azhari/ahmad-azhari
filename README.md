@@ -6,14 +6,14 @@
 
 <!-- ═══════════════════════ HERO WAVE HEADER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:38B2AC&height=220&section=header&text=Ahmad%20El%20Azhari&fontSize=42&fontColor=38B2AC&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20Technician%20%E2%80%A2%20AI%20Specialist%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descColor=8B949E&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:38B2AC&height=220&section=header&text=Ahmad%20El%20Azhari&fontSize=42&fontColor=38B2AC&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20Technician%20%E2%80%A2%20AI%20Specialist%20%E2%80%A2%20Software%20Tester%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descColor=8B949E&descAlignY=55" width="100%" />
 
 <br/>
 
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
 <a href="https://github.com/ahmad-azhari">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&repeat=true&width=620&height=35&lines=Building+AI+Agents+with+LangGraph+%26+MCP;Full-Stack+Solutions+from+Madrid%2C+Spain;Bridging+LLMs+and+Production+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&repeat=true&width=620&height=35&lines=Building+AI+Agents+with+LangGraph+%26+MCP;Full-Stack+Solutions+from+Madrid%2C+Spain;Bridging+LLMs+and+Production+Systems;Agile+QA+Engineer+%7C+Scrum+%26+Kanban;Software+Testing+%7C+Jira+%26+Zephyr" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -35,7 +35,7 @@
 
 <h2>🚀 About Me</h2>
 
-**Web Dev Technician · AI Specialist · Full-Stack Developer** based in **Madrid, Spain** 🇪🇸
+**Web Dev Technician · AI Specialist · Software Tester · Full-Stack Developer** based in **Madrid, Spain** 🇪🇸
 
 
 *"Automate everything. Ship relentlessly."*
@@ -144,8 +144,55 @@
 </div>
 
 <br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║               🧪 SOFTWARE TESTING & QA                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2EAD33?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/🧪_SOFTWARE_TESTING_&_QA-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2EAD33?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>🔬 Testing Tools & Frameworks</h3>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+
+<br/><br/>
+
+<h3>📋 Project & Test Management</h3>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Zephyr_Scale-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+<br/><br/>
+
+<h3>🔄 Agile Methodologies & Workflows</h3>
+
+<img src="https://img.shields.io/badge/Scrum-38B2AC?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/Kanban-7C3AED?style=for-the-badge&logo=opsgenie&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile_Sprints-F97316?style=for-the-badge&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Sprint_Planning-0EA5E9?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+
+<br/><br/>
+
+> 🏃 Experienced working in **Agile environments** — running **Sprints**, managing **backlogs**, writing **test cases in Zephyr**, automating **API collections with Newman**, and tracking **bugs end-to-end in Jira**.
+
+</div>
+
 <br/>
 <br/>
+
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                   📈 GITHUB ANALYTICS                          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
@@ -159,6 +206,7 @@
 </div>
 
 <br/>
+
 
 <div align="center">
 
@@ -206,6 +254,7 @@
 
 🌐 **Full-Stack Platforms** with Angular, React, Node.js & MongoDB
 
+🧪 **Automated Test Suites** with Selenium & Newman inside Agile Sprint cycles
 
 <br/>
 
@@ -245,12 +294,6 @@
 <a href="https://www.linkedin.com/in/ahmad-e-a98b54280/"><img src="https://img.shields.io/badge/Let's_Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/ahmad-azhari?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repos-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
-
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔚 END — Built with 🧠 & ☕ by Ahmad El Azhari                             -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
