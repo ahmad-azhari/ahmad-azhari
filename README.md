@@ -1,16 +1,8 @@
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🧠  AHMAD EL AZHARI — GITHUB PROFILE README                                -->
-<!-- ══════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
-<!-- ═══════════════════════ HERO WAVE HEADER ═══════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:38B2AC&height=220&section=header&text=Ahmad%20El%20Azhari&fontSize=42&fontColor=38B2AC&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20Technician%20%E2%80%A2%20AI%20Specialist%20%E2%80%A2%20Software%20Tester%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descColor=8B949E&descAlignY=55" width="100%" />
 
 <br/>
-
-<!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
 <a href="https://github.com/ahmad-azhari">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&repeat=true&width=620&height=35&lines=Building+AI+Agents+with+LangGraph+%26+MCP;Full-Stack+Solutions+from+Madrid%2C+Spain;Bridging+LLMs+and+Production+Systems;Agile+QA+Engineer+%7C+Scrum+%26+Kanban;Software+Testing+%7C+Jira+%26+Zephyr" alt="Typing SVG" />
@@ -18,9 +10,7 @@
 
 <br/><br/>
 
-<!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
-
-<a href="https://www.linkedin.com/in/ahmad-e-a98b54280/"><img src="https://img.shields.io/badge/LinkedIn-Ahmad_El_Azhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ahmadelazhari"><img src="https://img.shields.io/badge/LinkedIn-Ahmad_El_Azhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/ahmad-azhari"><img src="https://img.shields.io/badge/GitHub-ahmad--azhari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/Madrid,_Spain-38B2AC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 <img src="https://komarev.com/ghpvc/?username=ahmad-azhari&style=for-the-badge&color=38B2AC&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -28,8 +18,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 <div align="center">
 
@@ -43,59 +31,6 @@
 </div>
 
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🧠 AI & AGENTIC EXPERTISE                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38B2AC?style=flat-square" />
-<br/>
-<img src="https://img.shields.io/badge/🧠_AI_&_AGENTIC_EXPERTISE-0D1117?style=for-the-badge&labelColor=0D1117" />
-<br/>
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38B2AC?style=flat-square" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<h3>🤖 LLMs & Foundation Models</h3>
-
-<img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_3.5-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Meta_Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-38B2AC?style=for-the-badge&logo=openai&logoColor=white" />
-
-<br/><br/>
-
-<h3>⚡ Agentic Frameworks & Tools</h3>
-
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP_Protocol-38B2AC?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
-
-<br/><br/>
-
-<h3>🗄️ RAG & Vector Intelligence</h3>
-
-<img src="https://img.shields.io/badge/RAG_Systems-38B2AC?style=for-the-badge&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_Databases-7C3AED?style=for-the-badge&logo=weaviate&logoColor=white" />
-<img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                🌐 FULL-STACK FOUNDATION                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0EA5E9?style=flat-square" />
@@ -144,10 +79,52 @@
 </div>
 
 <br/>
+<br/><br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║               🧪 SOFTWARE TESTING & QA                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38B2AC?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/🧠_AI_&_AGENTIC_EXPERTISE-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38B2AC?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<h3>🤖 LLMs & Foundation Models</h3>
+
+<img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_3.5-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta_Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-38B2AC?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+<h3>⚡ Agentic Frameworks & Tools</h3>
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP_Protocol-38B2AC?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
+
+<br/><br/>
+
+<h3>🗄️ RAG & Vector Intelligence</h3>
+
+<img src="https://img.shields.io/badge/RAG_Systems-38B2AC?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_Databases-7C3AED?style=for-the-badge&logo=weaviate&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" />
+
+</div>
+
+<br/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2EAD33?style=flat-square" />
@@ -186,16 +163,12 @@
 
 <br/><br/>
 
-> 🏃 Experienced working in **Agile environments** — running **Sprints**, managing **backlogs**, writing **test cases in Zephyr**, automating **API collections with Newman**, and tracking **bugs end-to-end in Jira**.
+> 🏃 Experienced working in **Agile environments**, managing **backlogs**, writing **test cases in Zephyr** and tracking **bugs end-to-end in Jira**.
 
 </div>
 
 <br/>
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   📈 GITHUB ANALYTICS                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-F97316?style=flat-square" />
@@ -206,7 +179,6 @@
 </div>
 
 <br/>
-
 
 <div align="center">
 
@@ -231,10 +203,6 @@
 </div>
 
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🏗️ WHAT I'M BUILDING                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-38B2AC?style=flat-square" />
@@ -266,11 +234,6 @@
 
 <br/>
 
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🤝 LET'S CONNECT                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0EA5E9?style=flat-square" />
 <br/>
@@ -291,7 +254,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ahmad-e-a98b54280/"><img src="https://img.shields.io/badge/Let's_Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/a"><img src="https://img.shields.io/badge/Let's_Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/ahmad-azhari?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repos-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
 
 </div>
