@@ -254,7 +254,7 @@
 
 <br/>
 
-<a href="www.linkedin.com/in/a"><img src="https://img.shields.io/badge/Let's_Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/ahmadelazhari"><img src="https://img.shields.io/badge/Let's_Talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/ahmad-azhari?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repos-38B2AC?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
 
 </div>
